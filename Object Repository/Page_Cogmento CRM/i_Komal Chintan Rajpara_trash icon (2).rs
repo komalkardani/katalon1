@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Komal Chintan Rajpara_trash icon (2)</name>
+   <tag></tag>
+   <elementGuidId>f667fa94-bfef-49d0-8742-a99a9e2fdd3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.active.warning > td.right.aligned.collapsing.options-buttons-container > button.ui.button.icon > i.trash.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr[2]/td[8]/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9d47e392-55d9-4770-bf7a-db8809f0fae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>78d4348f-a550-41e3-94ad-95368c873a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>trash icon</value>
+      <webElementGuid>6699cd69-d69e-4ca1-9828-75cdd28fac1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;ui fluid container&quot;]/div[@class=&quot;ui fluid container main-content&quot;]/div[@class=&quot;table-wrapper&quot;]/table[@class=&quot;ui celled definition sortable striped table custom-grid&quot;]/tbody[1]/tr[@class=&quot;active warning&quot;]/td[@class=&quot;right aligned collapsing options-buttons-container&quot;]/button[@class=&quot;ui button icon&quot;]/i[@class=&quot;trash icon&quot;]</value>
+      <webElementGuid>017518f1-9ca8-490e-ab65-2c4aaff9a6be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div[2]/div/table/tbody/tr[2]/td[8]/button[2]/i</value>
+      <webElementGuid>2b9c82e4-102b-4323-9e2d-efafabaad0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[8]/button[2]/i</value>
+      <webElementGuid>6c9ca23d-e0dd-4776-98c5-ef7671af223d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

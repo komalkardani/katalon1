@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__animation-ctn df jcc</name>
+   <tag></tag>
+   <elementGuidId>ff2744c9-34f8-4fa5-bf7a-65b3f36f091c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/section/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.animation-ctn.df.jcc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c982b81-cfef-43f5-a017-29d8756f67d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>animation-ctn df jcc</value>
+      <webElementGuid>a5c9241e-a0d7-44a4-a53e-31bdd76ad329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/section[@class=&quot;grey-box mt1&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;demo_form bgb br8 p3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 form-group&quot;]/div[1]/div[@class=&quot;completed&quot;]/div[@class=&quot;animation-ctn df jcc&quot;]</value>
+      <webElementGuid>e8b51b3e-0165-494f-b115-03c8930a2fda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/section/div/div/div[2]/div/div/div/div/div/div/div/div[3]/div</value>
+      <webElementGuid>1042d95e-f2e6-4d39-bd74-dc0686546b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::div[5]</value>
+      <webElementGuid>f40e979d-bc78-4af0-92db-119ffcc36303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you!'])[1]/preceding::div[2]</value>
+      <webElementGuid>c12bc8dd-8fc8-494c-b415-7d15ed4fa2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F A Q'])[1]/preceding::div[3]</value>
+      <webElementGuid>8b7d746d-7923-426a-8ea0-12a4ea00eb57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>f311b4e9-e466-40d5-9c6f-e79858b29c3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

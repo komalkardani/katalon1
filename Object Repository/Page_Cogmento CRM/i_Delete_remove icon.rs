@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Delete_remove icon</name>
+   <tag></tag>
+   <elementGuidId>5cedc39b-e27e-47f2-85d1-50fcb06cd980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.remove.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8f209bcc-203e-474c-9a6d-08ba2f58a135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>75725b30-e2a4-440f-9d69-569334bb7243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>remove icon</value>
+      <webElementGuid>7806b8cd-6bec-479c-bbc9-8d4cfb70261d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dimmable dimmed&quot;]/div[@class=&quot;ui page modals dimmer transition visible active&quot;]/div[@class=&quot;ui modal transition visible active&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;ui red button&quot;]/i[@class=&quot;remove icon&quot;]</value>
+      <webElementGuid>6c6f96e5-a60b-45a6-98ea-1b2512049063</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/i</value>
+      <webElementGuid>edf4a5ba-34ae-4d70-83c7-8924360f7a8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

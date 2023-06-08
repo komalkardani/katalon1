@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CRM3CreateCompany</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be33eef0-972a-432d-9419-0ab94c64bcf0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>11439014-80df-438f-bbea-6f8a99eda426</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f87b1cec-0499-481d-9b6e-7445eb7b66fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c726f41-5aa0-40de-8830-6b9eb0f54ba3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'komal.k@simformsolutions.com'</defaultValue>
+      <description></description>
+      <id>11439014-80df-438f-bbea-6f8a99eda426</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'65/Ef64GkYkZWvKQaZF9Sg=='</defaultValue>
+      <description></description>
+      <id>f87b1cec-0499-481d-9b6e-7445eb7b66fe</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Simform Solutions'</defaultValue>
+      <description></description>
+      <id>9c726f41-5aa0-40de-8830-6b9eb0f54ba3</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+</TestCaseEntity>
